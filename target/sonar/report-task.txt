@@ -1,0 +1,6 @@
+projectKey=FinalProj
+serverUrl=http://192.168.1.186:9000
+serverVersion=8.3.0.34182
+dashboardUrl=http://192.168.1.186:9000/dashboard?id=FinalProj
+ceTaskId=AXRnY8eEZUEULuty3g0m
+ceTaskUrl=http://192.168.1.186:9000/api/ce/task?id=AXRnY8eEZUEULuty3g0m
